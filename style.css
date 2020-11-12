@@ -1,0 +1,51 @@
+body {
+	font-family: "Calibri Light"; 
+	background-color: #EAEBF5;
+}
+
+.btn-primary {
+	background-color: #102EEF;
+	border-color: #102EEF;
+}
+
+table {
+	background-color: #FEFEFE;
+	color: #102EEF;
+	border-color: #FEFEFE;
+}
+
+table > thead {
+	color: #102EEF;
+}
+
+.alert {
+	border-color: #102EEF;
+	color: #102EEF;
+	background-color: #FEFEFE;
+}
+
+.container{
+	margin-top: 100px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  width: 450px;
+}
+
+.btn-group-vertical {
+	margin-top: 50px;
+}
+
+.group-pro {
+	width: 200px;
+}
+
+.row {
+	margin-top: 25px;
+}
